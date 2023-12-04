@@ -20,4 +20,4 @@ Execute os arquivos e acompanhe seus resultados. Sinta-se a vontade para testar 
 
 Atenção, nesses arquivos o foco é explorar a explicabilidade dos modelos gerados. Deste modo, algumas das boas práticas de tratamentos de dados como: limpeza, balanceamento, normalização, divisão de conjuntos de treino, teste e validão; não estão sendo aplicadas ou abordadas. Contudo, estas práticas são de suma importância no processo de construção de modelos robustos e adaptáveis.
 ## Certificação Data Science & AI
-Gostou do serviço do OCI Data Science e quer se aprofundar ainda mais em seus recursos? A Oracle possui uma certificação completa que abrange não só o OCI Data Science como também os servisse de OCI AI Services. Acesse aqui e confira.
+Gostou do serviço do OCI Data Science e quer se aprofundar ainda mais em seus recursos? A Oracle possui uma certificação completa que abrange não só o OCI Data Science como também os servisse de OCI AI Services. [Acesse aqui e confira](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2023/121944).
